@@ -1,4 +1,3 @@
-# akshaycoderg <br>
 Hi, I'm AKSHAY (@akshaycoderg)<br>
 I'm in 3rd sem of my engineering of Electronics and Communication.<br>
 I'm Learning in WEB DEVELOPMENT and Python.<br>
